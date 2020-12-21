@@ -16,7 +16,7 @@ int main() {
     int positive_exponent;
     std::string positive_as_string;
 
-    std::cout << " I will give you the factroial of the number you input"
+    std::cout << " Enter how many times to repeat "
     << std::endl;
 
 
