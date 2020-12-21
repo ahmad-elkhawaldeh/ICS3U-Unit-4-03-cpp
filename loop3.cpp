@@ -2,8 +2,8 @@
 //
 // Created by: Ahmad El-khawaldeh
 // Created on: Dec 2020
-// This program asks the user for a positive integer,
-// then multiplies all the whole numbers up to that number
+//  a program that accepts a positive integer;then calculates the square
+//  (power of 2) of each integer from 0 to this number
 
 #include <iostream>
 #include <cmath>
